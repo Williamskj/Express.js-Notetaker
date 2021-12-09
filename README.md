@@ -14,7 +14,8 @@ One must have node, express.js, and a working terminal/Bash to get the code to w
 ## Usage
 If one wishes to use the application wihtout installation, they simply must go to the link at the bottom of the README and head to the deployed application on Heroku, at which point they can use the notetaker as much as they desire. To use the notetaker, simply type a title and a body for your note, and click on the floppy disk symbol at the top right corner of the screen to save the note. To delete it, click on the red garbage can symbol next tot your note on the left side of the screen.
 ## Screenshots
-https://user-images.githubusercontent.com/89874192/145472253-1132e3ee-c4ce-4a94-b0d7-a7c802296b25.png
+<img width="1278" alt="Screenshot 2021-12-09 123225" src="https://user-images.githubusercontent.com/89874192/145472209-e62fcefd-57be-4a8d-8492-8821a8348d13.png">
+<img width="1279" alt="Screenshot 2021-12-09 123304" src="https://user-images.githubusercontent.com/89874192/145472253-1132e3ee-c4ce-4a94-b0d7-a7c802296b25.png">
 ## Link
 https://homework-12-04-2021.herokuapp.com/
 ## GitHub
